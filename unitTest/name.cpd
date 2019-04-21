@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project><SourceFiles><SourceFile><Path>src/cmocka.c</Path></SourceFile><SourceFile><Path>src/main.c</Path></SourceFile></SourceFiles><IncludeFolders><string>headers</string></IncludeFolders><SystemDependencies/><BuildConfigs/><ActiveBuildConfig/></Project>
